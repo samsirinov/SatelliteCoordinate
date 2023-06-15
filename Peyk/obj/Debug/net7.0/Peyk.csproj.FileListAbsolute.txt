@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\bin\Debug\net7.0\Peyk.exe
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\bin\Debug\net7.0\Peyk.deps.json
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\bin\Debug\net7.0\Peyk.runtimeconfig.json
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\bin\Debug\net7.0\Peyk.dll
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\bin\Debug\net7.0\Peyk.pdb
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\obj\Debug\net7.0\Peyk.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\obj\Debug\net7.0\Peyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\obj\Debug\net7.0\Peyk.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\obj\Debug\net7.0\Peyk.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\obj\Debug\net7.0\Peyk.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\obj\Debug\net7.0\Peyk.dll
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\obj\Debug\net7.0\refint\Peyk.dll
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\obj\Debug\net7.0\Peyk.pdb
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\obj\Debug\net7.0\Peyk.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Semed\MYSA\Peyk\Peyk\obj\Debug\net7.0\ref\Peyk.dll
